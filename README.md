@@ -1,16 +1,17 @@
 ### Hi there 👋
 
-<!--
-**ArkanNibrastama/ArkanNibrastama** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p>Hello, my name is Muhammad Arkan Nibrastama. I'm an Undergraduate in Computer Science from the University of Lampung. My skills include python programming, data understanding, ETL, airflow, pyspark, machine learning, deep learning, data visualization, and more. I am interested in using these skills to analyze and understand data in order to solve problems and make informed decisions.</p>
 
-Here are some ideas to get you started:
+<p>Is there anything specific you would like to know about my background or expertise? contact me on :</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<ul>
+   <a href="https://www.linkedin.com/in/muhammad-arkan-nibrastama/">
+     <h4>🔗&emsp;Linkedin</h4>
+   </a>
+   <a href="mailto:arkan6040nibrastama@gmail.com?subject=Interested&body=Hello Arkan!">
+     <h4>📧&emsp;Gmail</h4>
+   </a>
+</ul>
+
+</br>
+<p>Thank you!</P>
