@@ -5,10 +5,10 @@
 <p>Is there anything specific you would like to know about my background or expertise? contact me on :</p>
 
 <ul>
-   <a href="https://www.linkedin.com/in/muhammad-arkan-nibrastama/">
+   <a href="https://www.linkedin.com/in/muhammad-arkan-nibrastama/" target="_blank">
      <h4>🔗&emsp;Linkedin</h4>
    </a>
-   <a href="mailto:arkan6040nibrastama@gmail.com?subject=Interested&body=Hello Arkan!">
+   <a href="mailto:arkan6040nibrastama@gmail.com?subject=Interested&body=Hello Arkan!" target="_blank">
      <h4>📧&emsp;Gmail</h4>
    </a>
 </ul>
