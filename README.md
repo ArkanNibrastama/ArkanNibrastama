@@ -11,7 +11,7 @@
       </a>
    </h4>
    <h4>
-      <a href="mailto:arkan6040nibrastama@gmail.com?subject=Interested&body=Hello Arkan!" target="_blank">
+      <a href="mailto:arkan6040nibrastama@gmail.com?subject=Helo Arkan!&body=Hello Arkan! my name is ..." target="_blank">
         📧&emsp;Gmail
       </a>
    </h4>
