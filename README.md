@@ -5,13 +5,16 @@
 <p>Is there anything specific you would like to know about my background or expertise? contact me on :</p>
 
 <ul>
-   <a href="https://www.linkedin.com/in/muhammad-arkan-nibrastama/">
-     🔗&emsp;Linkedin
-   </a>
-   </br>
-   <a href="mailto:arkan6040nibrastama@gmail.com?subject=Interested&body=Hello Arkan!">
-     📧&emsp;Gmail
-   </a>
+   <h4>
+      <a href="https://www.linkedin.com/in/muhammad-arkan-nibrastama/" target="_blank">
+        🔗&emsp;Linkedin
+      </a>
+   </h4>
+   <h4>
+      <a href="mailto:arkan6040nibrastama@gmail.com?subject=Interested&body=Hello Arkan!" target="_blank">
+        📧&emsp;Gmail
+      </a>
+   </h4>
 </ul>
 
 </br>
