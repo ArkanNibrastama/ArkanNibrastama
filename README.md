@@ -6,10 +6,11 @@
 
 <ul>
    <a href="https://www.linkedin.com/in/muhammad-arkan-nibrastama/" target="_blank">
-     <h4>🔗&emsp;Linkedin</h4>
+     🔗&emsp;Linkedin
    </a>
+   </br>
    <a href="mailto:arkan6040nibrastama@gmail.com?subject=Interested&body=Hello Arkan!" target="_blank">
-     <h4>📧&emsp;Gmail</h4>
+     📧&emsp;Gmail
    </a>
 </ul>
 
