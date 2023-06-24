@@ -4,6 +4,9 @@
 
 <p align="justify">I'm an Undergraduate in Computer Science with an interest in the data field especially in data engineering. I am interested in using these skills to analyze and understand data in order to solve problems and make informed decisions. You can explore the data engineering projects that I've worked on and see my expertise in action!</p>
 
+<hr>
+
+## 👀 Total Visitors
 ![Visitor Count](https://profile-counter.glitch.me/{ArkanNibrastama}/count.svg)
 
  ## ⭐ Popular Repositories
