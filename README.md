@@ -7,16 +7,25 @@
 <br>
 <hr>
 
-## 👀 Total Visitors
-![Visitor Count](https://profile-counter.glitch.me/{ArkanNibrastama}/count.svg)
-
  ## ⭐ Popular Repositories
- | 🗃️ Repositories | [GCP Data Engineering](https://github.com/ArkanNibrastama/arkan-cloud-data-engineering-projects) · [Weather Analytics Data Pipeline](https://github.com/ArkanNibrastama/weather-analyticse) · [Cloud Infra](https://github.com/ArkanNibrastama/cloud-data-infrastructure) |
-|:--------|:--------------------|
-
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=ArkanNibrastama&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="ArkanNibrastama"/></p>
+<a href="https://github.com/ArkanNibrastama/arkan-cloud-data-engineering-projects" target="_blank">
+ <img src="https://github-readme-stats.vercel.app/api/pin/?username=ArkanNibrastama&repo=arkan-cloud-data-engineering-projects&theme=tokyonight" />
+</a>
+<a href="https://github.com/ArkanNibrastama/spotify-data-pipeline" target="_blank">
+ <img src="https://github-readme-stats.vercel.app/api/pin/?username=ArkanNibrastama&repo=spotify-data-pipeline&theme=tokyonight" />
+</a>
+<a href="https://github.com/ArkanNibrastama/cloud-data-infrastructure" target="_blank">
+ <img src="https://github-readme-stats.vercel.app/api/pin/?username=ArkanNibrastama&repo=cloud-data-infrastructure&theme=tokyonight" />
+</a>
+<a href="https://github.com/ArkanNibrastama/weather-analytics" target="_blank">
+ <img src="https://github-readme-stats.vercel.app/api/pin/?username=ArkanNibrastama&repo=weather-analytics&theme=tokyonight" />
+</a>
+<br>
+<br>
 
 ## 🛠️ Language and Tool
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArkanNibrastama&hide_progress=false&layout=donut&theme=tokyonight" alt="ArkanNibrastama"/></p>
+
 <p align="left">
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/> </a>
@@ -26,6 +35,7 @@
 <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="AWS" width="40" height="40"/> </a>
  <a href="https://www.terraform.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="Terraform" width="40" height="40"/> </a>
 </p>
+<br>
 
 ## 🔍 Don't hesitate to reach me on
 <p align="left">
@@ -34,3 +44,7 @@
 <a href="https://www.kaggle.com/markannibrastama" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="ArkanNibrastama" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/aa7112237" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ArkanNibrastama" height="30" width="40" /></a>
 </p>
+<br>
+
+## 👀 Total Visitors
+![Visitor Count](https://profile-counter.glitch.me/{ArkanNibrastama}/count.svg)
