@@ -1,6 +1,6 @@
 # Hello, I'm Arkan <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30px">
 
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=ArkanNibrastama&show_icons=true&locale=en&theme=tokyonight" alt="ArkanNibrastama" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ArkanNibrastama&show_icons=true&locale=en&theme=tokyonight" alt="ArkanNibrastama" /></p>
 
 <p align="justify">I'm an Undergraduate in Computer Science with an interest in the data field especially in data engineering. I am interested in using these skills to analyze and understand data in order to solve problems and make informed decisions. You can explore the data engineering projects that I've worked on and see my expertise in action!</p>
 
@@ -9,22 +9,22 @@
 
  ## ⭐ Popular Repositories
 <a href="https://github.com/ArkanNibrastama/arkan-cloud-data-engineering-projects" target="_blank">
- <img src="https://github-readme-stats.vercel.app/api/pin/?username=ArkanNibrastama&repo=arkan-cloud-data-engineering-projects&theme=tokyonight" />
+ <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=ArkanNibrastama&repo=arkan-cloud-data-engineering-projects&theme=tokyonight" />
 </a>
 <a href="https://github.com/ArkanNibrastama/spotify-data-pipeline" target="_blank">
- <img src="https://github-readme-stats.vercel.app/api/pin/?username=ArkanNibrastama&repo=spotify-data-pipeline&theme=tokyonight" />
+ <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=ArkanNibrastama&repo=spotify-data-pipeline&theme=tokyonight" />
 </a>
 <a href="https://github.com/ArkanNibrastama/cloud-data-infrastructure" target="_blank">
- <img src="https://github-readme-stats.vercel.app/api/pin/?username=ArkanNibrastama&repo=cloud-data-infrastructure&theme=tokyonight" />
+ <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=ArkanNibrastama&repo=cloud-data-infrastructure&theme=tokyonight" />
 </a>
 <a href="https://github.com/ArkanNibrastama/weather-analytics" target="_blank">
- <img src="https://github-readme-stats.vercel.app/api/pin/?username=ArkanNibrastama&repo=weather-analytics&theme=tokyonight" />
+ <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=ArkanNibrastama&repo=weather-analytics&theme=tokyonight" />
 </a>
 <br>
 <br>
 
 ## 🛠️ Language and Tool
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArkanNibrastama&hide_progress=false&layout=donut&theme=tokyonight" alt="ArkanNibrastama"/></p>
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArkanNibrastama&layout=donut&theme=tokyonight" alt="ArkanNibrastama"/></p>
 
 <p align="left">
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
