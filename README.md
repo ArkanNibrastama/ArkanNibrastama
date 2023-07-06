@@ -45,6 +45,7 @@
 <a href="https://www.linkedin.com/in/muhammad-arkan-nibrastama/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ArkanNibrastama" height="30" width="40" /></a>
 <a href="https://www.kaggle.com/markannibrastama" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="ArkanNibrastama" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/aa7112237" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ArkanNibrastama" height="30" width="40" /></a>
+ <a href="https://leetcode.com/arkan6040nibrastama/" target="blank"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/leet-code.svg" alt="ArkanNibrastama" height="30" width="40" /></a>
 </p>
 <br>
 
