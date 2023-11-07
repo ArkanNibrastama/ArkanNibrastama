@@ -20,6 +20,9 @@
 <a href="https://github.com/ArkanNibrastama/weather-analytics" target="_blank">
  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=ArkanNibrastama&repo=weather-analytics&theme=tokyonight" />
 </a>
+<a href="https://github.com/ArkanNibrastama/cdc-mysql-bigquery" target="_blank">
+ <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=ArkanNibrastama&repo=cdc-mysql-bigquery&theme=tokyonight" />
+</a>
 <br>
 <br>
 
