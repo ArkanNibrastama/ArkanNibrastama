@@ -8,6 +8,9 @@
 <hr>
 
  ## ⭐ Popular Repositories
+ <a href="https://github.com/ArkanNibrastama/ecommerce_data_pipeline" target="_blank">
+ <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=ArkanNibrastama&repo=ecommerce_data_pipeline&theme=tokyonight" />
+</a>
 <a href="https://github.com/ArkanNibrastama/arkan-cloud-data-engineering-projects" target="_blank">
  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=ArkanNibrastama&repo=arkan-cloud-data-engineering-projects&theme=tokyonight" />
 </a>
