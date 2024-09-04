@@ -2,26 +2,20 @@
 
 <p>&nbsp;<img align="right" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ArkanNibrastama&show_icons=true&locale=en&theme=tokyonight" alt="ArkanNibrastama" /></p>
 
-<p align="justify">I'm an Undergraduate in Computer Science with an interest in the data field especially in data engineering. I am interested in using these skills to analyze and understand data in order to solve problems and make informed decisions. You can explore the data engineering projects that I've worked on and see my expertise in action!</p>
+<p align="justify">I'm final year Computer Science student with an interest in the data field, especially in data engineering. I am interested in using these skills to analyze and understand data in order to solve problems and make informed decisions. You can explore the data engineering projects that I've worked on and see my expertise in action!</p>
 
 <br>
 <hr>
 
- ## ⭐ Popular Repositories
+ ## ⭐ My Top projects
  <a href="https://github.com/ArkanNibrastama/ecommerce_data_pipeline" target="_blank">
  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=ArkanNibrastama&repo=ecommerce_data_pipeline&theme=tokyonight" />
 </a>
-<a href="https://github.com/ArkanNibrastama/arkan-cloud-data-engineering-projects" target="_blank">
- <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=ArkanNibrastama&repo=arkan-cloud-data-engineering-projects&theme=tokyonight" />
+ <a href="https://github.com/ArkanNibrastama/people_performance_data_pipeline" target="_blank">
+ <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=ArkanNibrastama&repo=people_performance_data_pipeline&theme=tokyonight" />
 </a>
 <a href="https://github.com/ArkanNibrastama/spotify-data-pipeline" target="_blank">
  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=ArkanNibrastama&repo=spotify-data-pipeline&theme=tokyonight" />
-</a>
-<a href="https://github.com/ArkanNibrastama/cloud-data-infrastructure" target="_blank">
- <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=ArkanNibrastama&repo=cloud-data-infrastructure&theme=tokyonight" />
-</a>
-<a href="https://github.com/ArkanNibrastama/weather-analytics" target="_blank">
- <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=ArkanNibrastama&repo=weather-analytics&theme=tokyonight" />
 </a>
 <a href="https://github.com/ArkanNibrastama/cdc-mysql-bigquery" target="_blank">
  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=ArkanNibrastama&repo=cdc-mysql-bigquery&theme=tokyonight" />
@@ -48,7 +42,7 @@
 
 <br>
 
-## 🔍 Don't hesitate to reach me on
+## 🔍 Reach me on
 <p align="left">
 <a href="mailto:arkan6040nibrastama@gmail.com?subject=Helo Arkan!&body=Hello Arkan! my name is ..." target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="ArkanNibrastama" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/muhammad-arkan-nibrastama/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ArkanNibrastama" height="30" width="40" /></a>
